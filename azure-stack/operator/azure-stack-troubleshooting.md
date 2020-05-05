@@ -117,7 +117,7 @@ It may take up to 14 hours for reclaimed capacity to show up in the portal. Spac
 
 If you're using an integrated system in a disconnected scenario, it's recommended to use an Enterprise Certificate Authority (CA). Export the root certificate in a Base-64 format and then import it in Azure Storage Explorer. Make sure that you remove the trailing slash (`/`) from the Resource Manager endpoint. For more information, see [Prepare for connecting to Azure Stack Hub](/azure-stack/user/azure-stack-storage-connect-se).
 
-## Troubleshooting App Service
+## Troubleshoot App Service
 
 ### Create-AADIdentityApp.ps1 script fails
 
